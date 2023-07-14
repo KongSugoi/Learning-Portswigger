@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cb20bbd5-6748-40ae-a8af-21bf07fe6cd8" name="LocallHost" url="http://localhost/BookStore-master">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\BookStore-master" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
